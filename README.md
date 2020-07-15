@@ -10,3 +10,5 @@ implementation of different algorithms
 4->kmp 
 
 5->topological sort
+
+6->kruskal
